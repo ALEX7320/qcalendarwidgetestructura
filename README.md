@@ -2,8 +2,9 @@
 
 Si bien este wiget ya se encuentran en el repositorio [`Metodos y eventos (Widgets PyQT)`](https://github.com/ALEX7320/documentacionpyqt "Metodos y eventos (Widgets PyQT)") se encuentra nuevamente aqui para encontrarlo con mayor facilidad, debido a que la composición del QCalendarWidget es muy peculiar.
 
-**Fuente**
+**Fuentes**
  * [ProgrammerSought](https://www.programmersought.com/article/76123739163/ "ProgrammerSought")
+ * [Stackoverflow](https://stackoverflow.com/questions/58911972/qcalendarwidget-on-year-click-using-pyqt5 "Stackoverflow") 
  
 **Indice**
 

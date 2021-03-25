@@ -10,7 +10,7 @@ Si bien este wiget ya se encuentran en el repositorio [`Metodos y eventos (Widge
 
   * [Recursos utilizados](#recursos-utilizados)
   * [Ditribución](#ditribución)
-  * [Previzualización](#previzualización)
+  * [Previsualización](#previsualización)
 
 # Recursos utilizados
 
@@ -26,6 +26,6 @@ Si bien este wiget ya se encuentran en el repositorio [`Metodos y eventos (Widge
 |"qt_calendar_yearedit"|QSpinBox|Seleccíon de año|
 |"qt_calendar_calendarview"|QTableView|Vista y Scroll del calendario|
 
-# Previzualización
+# Previsualización
 
 ![](https://1.bp.blogspot.com/-09bpn1yb6sQ/YE_Zsa2mCTI/AAAAAAAAAGo/1MKOVyG1JP8uk49mKFq4erQbpPeHBZe7gCLcBGAsYHQ/s1600/6124614242.jpg)
